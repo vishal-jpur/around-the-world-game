@@ -25,4 +25,4 @@
 <p>Application is responsive for all mobile devices.</p>
 
 
-Project Link: https://github.com/kateFrontend/Around-the-World-game
+Project Link: https://vishal-jpur.github.io/around-the-world-game/
